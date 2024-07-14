@@ -1,4 +1,4 @@
-# ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) Projeto de Manipulação de Imagens em C++
+# ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png)
 
 ## Objetivo
 
